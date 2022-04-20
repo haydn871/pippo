@@ -1,6 +1,6 @@
 Let's make a game!
-	-Wall Destroyer
-	-by Tellurium
+	-Pippogame
+	-by Fender
 	-created on 04/21/2014
 	-last updated on 12/27/2014
 	-version 2.3.4
